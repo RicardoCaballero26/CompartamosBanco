@@ -1,0 +1,4 @@
+node_modules/
+target/
+.quarkus/
+PRODUCT/node_modules/
